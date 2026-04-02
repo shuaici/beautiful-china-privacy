@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "source": "expanded-by-user",
   "provinces": [
     {
@@ -276,6 +276,40 @@
           "history": "",
           "bestVisitTime": "Year-round",
           "tips": "Use official app for queues; peak days require full-day planning.",
+          "isUnesco": false,
+          "isFamous": true
+        },
+        {
+          "id": "sup-bj-17",
+          "nameCn": "天安门广场",
+          "nameEn": "Tiananmen Square",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Dongcheng District, Beijing, China",
+          "province": "Beijing",
+          "city": "Beijing",
+          "district": "Dongcheng",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiananmen_Square_Beijing.jpg",
+          "description": "China's ceremonial heart—vast plaza framed by the Gate, Great Hall, and National Museum; the national symbol landmark of Beijing.",
+          "history": "Modern political and ceremonial center; site of major national events.",
+          "bestVisitTime": "Year-round",
+          "tips": "Security checks at entries; national holidays extremely crowded; valid ID may be required.",
+          "isUnesco": false,
+          "isFamous": true
+        },
+        {
+          "id": "sup-bj-18",
+          "nameCn": "中国国家博物馆",
+          "nameEn": "National Museum of China",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Dongcheng District, Beijing, China",
+          "province": "Beijing",
+          "city": "Beijing",
+          "district": "Dongcheng",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Museum_of_China_20180219.jpg",
+          "description": "One of China's flagship museums facing Tiananmen Square, with premier exhibitions of history, art, and top-tier cultural relics.",
+          "history": "Merged from former National Museum of Chinese History and Museum of Chinese Revolution.",
+          "bestVisitTime": "Year-round",
+          "tips": "Free entry with reservation; closed Mondays; allow several hours for major exhibitions.",
           "isUnesco": false,
           "isFamous": true
         }
@@ -2075,6 +2109,23 @@
           "tips": "Remote—check border regulations; sunrise tourism popular.",
           "isUnesco": false,
           "isFamous": true
+        },
+        {
+          "id": "sup-hlj-11",
+          "nameCn": "中央大街",
+          "nameEn": "Central Avenue (Zhongyang Street)",
+          "category": "CITIES",
+          "addressFull": "Daoli District, Harbin, Heilongjiang, China",
+          "province": "Heilongjiang",
+          "city": "Harbin",
+          "district": "Daoli",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zhongyang_Street_Harbin.jpg",
+          "description": "Harbin's signature pedestrian boulevard—European-style facades, ice sculptures in winter, and the city's best-known urban postcard.",
+          "history": "Historic commercial street shaped by early 20th-century Russian and European influence.",
+          "bestVisitTime": "Year-round; winter for ice festival atmosphere",
+          "tips": "Ice slippery in winter; peak season very crowded; try local ice cream (malatang) along the walk.",
+          "isUnesco": false,
+          "isFamous": true
         }
       ]
     },
@@ -2354,6 +2405,23 @@
           "tips": "Mosquito season in summer; spring/autumn pleasant.",
           "isUnesco": false,
           "isFamous": true
+        },
+        {
+          "id": "sup-js-17",
+          "nameCn": "南京博物院",
+          "nameEn": "Nanjing Museum",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Xuanwu District, Nanjing, Jiangsu, China",
+          "province": "Jiangsu",
+          "city": "Nanjing",
+          "district": "Xuanwu",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nanjing_Museum.jpg",
+          "description": "One of China's 'big three' comprehensive museums—huge collections spanning archaeology, Ming-Qing art, and Republican-era history in a major campus.",
+          "history": "Founded in the 1930s; expanded into a leading national museum complex.",
+          "bestVisitTime": "Year-round",
+          "tips": "Reserve online; closed Mondays; plan half a day—galleries are extensive.",
+          "isUnesco": false,
+          "isFamous": true
         }
       ]
     },
@@ -2599,6 +2667,23 @@
           "tips": "Summer swimming; autumn harvest scenery.",
           "isUnesco": false,
           "isFamous": true
+        },
+        {
+          "id": "sup-zj-15",
+          "nameCn": "鲁迅故里",
+          "nameEn": "Lu Xun Native Place (Shaoxing)",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Yuecheng District, Shaoxing, Zhejiang, China",
+          "province": "Zhejiang",
+          "city": "Shaoxing",
+          "district": "Yuecheng",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lu_Xun_Native_Place_Shaoxing.jpg",
+          "description": "Historic quarter and former residence of modern writer Lu Xun—courtyard homes, canal lanes, and exhibits on his life and works.",
+          "history": "Shaoxing is Lu Xun's hometown; the scenic area bundles his birth home, Baicao Garden, and Sanwei Study.",
+          "bestVisitTime": "Year-round",
+          "tips": "Combine with Shaoxing canal boat rides; busy on weekends—book if timed entry applies.",
+          "isUnesco": false,
+          "isFamous": true
         }
       ]
     },
@@ -2791,6 +2876,23 @@
           "history": "",
           "bestVisitTime": "Year-round",
           "tips": "Combine with Ma'anshan city museum.",
+          "isUnesco": false,
+          "isFamous": true
+        },
+        {
+          "id": "sup-ah-12",
+          "nameCn": "呈坎",
+          "nameEn": "Chengkan Ancient Village",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Huizhou District, Huangshan City, Anhui, China",
+          "province": "Anhui",
+          "city": "Huangshan City",
+          "district": "Huizhou",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chengkan_village_Anhui.jpg",
+          "description": "A well-preserved Huizhou village of lanes, ponds, and ancestral halls—often praised as a classic 'first village south of the Yangtze' for its fengshui layout.",
+          "history": "Ming-Qing merchant-era architecture in the Huangshan cultural region.",
+          "bestVisitTime": "Spring and autumn",
+          "tips": "Stone lanes can be wet; hire a local guide to decode hall names; combine with Huangshan trips.",
           "isUnesco": false,
           "isFamous": true
         }
@@ -3003,6 +3105,23 @@
           "bestVisitTime": "Year-round",
           "tips": "Half-day outing; summer heat.",
           "isUnesco": false,
+          "isFamous": true
+        },
+        {
+          "id": "sup-fj-13",
+          "nameCn": "泉州老城",
+          "nameEn": "Quanzhou Historic City",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Licheng District, Quanzhou, Fujian, China",
+          "province": "Fujian",
+          "city": "Quanzhou",
+          "district": "Licheng",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaiyuan_Temple_Quanzhou.jpg",
+          "description": "Song–Yuan era maritime emporium—temples, mosques, and old streets reflecting Quanzhou as a world trade hub; core of the UNESCO World Heritage historic serial site.",
+          "history": "Designated a UNESCO World Heritage Site (Quanzhou: Emporium of the World in Song-Yuan China).",
+          "bestVisitTime": "Year-round",
+          "tips": "Walk Kaiyuan Temple, Qingjing Mosque, and Guandi lanes; respect worship sites; summer is hot and humid.",
+          "isUnesco": true,
           "isFamous": true
         }
       ]
@@ -4852,6 +4971,23 @@
           "tips": "Many steps and exposed ridges—comfortable shoes essential.",
           "isUnesco": false,
           "isFamous": true
+        },
+        {
+          "id": "sup-sc-14",
+          "nameCn": "色达",
+          "nameEn": "Seda (Larung Gar Area)",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Seda County, Garzê, Sichuan, China",
+          "province": "Sichuan",
+          "city": "Garzê",
+          "district": "Seda",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Larung_Gar_Sertar.jpg",
+          "description": "High-plateau Tibetan Buddhist landscape—dense red cabins and monastic hills often called a 'red Buddha kingdom'; a major photography and pilgrimage destination (access rules change—check locally).",
+          "history": "Grew around Larung Gar and regional monastic institutions on the Tibetan Plateau fringe.",
+          "bestVisitTime": "May to October",
+          "tips": "Altitude 3,900 m+; respect monastic rules and photography restrictions; roads may close in winter.",
+          "isUnesco": false,
+          "isFamous": true
         }
       ]
     },
@@ -5239,6 +5375,23 @@
           "bestVisitTime": "November to April",
           "tips": "Winter–spring water mirrors; arrive before dawn for classic shots. Respect fields and farmers.",
           "isUnesco": true,
+          "isFamous": true
+        },
+        {
+          "id": "sup-yn-13",
+          "nameCn": "束河古镇",
+          "nameEn": "Shuhe Ancient Town",
+          "category": "CITIES",
+          "addressFull": "Gucheng District, Lijiang, Yunnan, China",
+          "province": "Yunnan",
+          "city": "Lijiang",
+          "district": "Gucheng",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shuhe_Ancient_Town.jpg",
+          "description": "Quieter Naxi canal town north of Dayan—a popular alternative to busy Lijiang Old Town, with stone bridges, tea houses, and mountain views.",
+          "history": "Historic tea-horse trail settlement; part of the broader Lijiang cultural landscape.",
+          "bestVisitTime": "Year-round",
+          "tips": "Morning light is best for photos; combine ticket with Lijiang if bundled; altitude ~2,400 m.",
+          "isUnesco": false,
           "isFamous": true
         }
       ]
@@ -5805,6 +5958,23 @@
           "tips": "Desert heat and wind—bring sun protection. Combine with Jade Gate Pass if touring.",
           "isUnesco": false,
           "isFamous": true
+        },
+        {
+          "id": "sup-gs-11",
+          "nameCn": "玉门关",
+          "nameEn": "Yumen Pass (Jade Gate)",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Dunhuang, Jiuquan, Gansu, China",
+          "province": "Gansu",
+          "city": "Jiuquan",
+          "district": "Dunhuang",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yumen_Pass_Dunhuang.jpg",
+          "description": "Iconic Han-dynasty frontier beacon and pass ruins on the Hexi Corridor—symbol of the Silk Road west of Dunhuang alongside Yang Pass.",
+          "history": "Part of the UNESCO Silk Roads: Routes Network of Chang'an–Tianshan Corridor (serial property).",
+          "bestVisitTime": "April to October",
+          "tips": "Open desert—sun and wind protection; often combined with Yardang or Mogao day tours by car.",
+          "isUnesco": true,
+          "isFamous": true
         }
       ]
     },
@@ -6336,6 +6506,23 @@
           "tips": "Avoid entering during rain (flash floods); sturdy shoes for wet rocky floors.",
           "isUnesco": false,
           "isFamous": true
+        },
+        {
+          "id": "sup-xj-13",
+          "nameCn": "独库公路",
+          "nameEn": "Duku Highway (G217 Dushanzi–Kuqa)",
+          "category": "NATURE",
+          "addressFull": "G217 through Tianshan from Dushanzi to Kuqa, Xinjiang, China",
+          "province": "Xinjiang",
+          "city": "Karamay",
+          "district": "Dushanzi",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duku_Highway_Xinjiang.jpg",
+          "description": "A legendary mountain scenic road crossing the Tianshan—forests, snow passes, and desert in one drive; often ranked among China's most beautiful highways.",
+          "history": "Built as a strategic mountain highway; now a major tourism route with seasonal opening.",
+          "bestVisitTime": "June to September (when fully open)",
+          "tips": "Closed or risky in winter; check snow/landslide closures; fuel and supplies between long empty sections; altitude and weather change fast.",
+          "isUnesco": false,
+          "isFamous": true
         }
       ]
     },
@@ -6511,6 +6698,23 @@
           "history": "",
           "bestVisitTime": "Year-round",
           "tips": "Check exhibition schedules and ticketing requirements in advance. Weekends can be busy—arrive earlier if possible.",
+          "isUnesco": false,
+          "isFamous": true
+        },
+        {
+          "id": "sup-hk-11",
+          "nameCn": "天坛大佛",
+          "nameEn": "Tian Tan Buddha (Big Buddha)",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Ngong Ping, Lantau Island, Hong Kong",
+          "province": "Hong Kong",
+          "city": "Hong Kong",
+          "district": "Islands",
+          "mainImageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tian_Tan_Buddha_by_Bernard_Spragg.jpg",
+          "description": "Giant outdoor bronze Buddha on Lantau overlooking forest and sea—Hong Kong's most recognizable spiritual landmark, reached by cable car or bus hike.",
+          "history": "Completed in 1993 at Po Lin Monastery; major Buddhist cultural site for visitors and pilgrims.",
+          "bestVisitTime": "Year-round",
+          "tips": "Ngong Ping 360 cable car can queue heavily—book or go early; mist may obscure views; modest dress at monastery.",
           "isUnesco": false,
           "isFamous": true
         }
