@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "source": "expanded-by-user",
   "provinces": [
     {
@@ -1126,7 +1126,7 @@
         {
           "id": "sup_heb_09",
           "nameCn": "白洋淀",
-          "nameEn": "Baiyangdian Wetlands",
+          "nameEn": "Baiyangdian",
           "category": "RIVERS_LAKES",
           "addressFull": "Anxin County, Baoding, Hebei, China",
           "province": "Hebei",
