@@ -2422,6 +2422,23 @@
           "tips": "Reserve online; closed Mondays; plan half a day—galleries are extensive.",
           "isUnesco": false,
           "isFamous": true
+        },
+        {
+          "id": "sup_js_18",
+          "nameCn": "南京明孝陵",
+          "nameEn": "Ming Xiaoling Mausoleum",
+          "category": "CULTURE_HISTORY",
+          "addressFull": "Xuanwu District, Nanjing, Jiangsu, China",
+          "province": "Jiangsu",
+          "city": "Nanjing",
+          "district": "Xuanwu",
+          "mainImageUrl": "sup_js_18.webp",
+          "description": "The mausoleum of the Hongwu Emperor, founder of the Ming dynasty, and his empress. Located at the southern foot of Mount Zijin in Nanjing, it is the first Ming tomb to receive nationwide protection and set the architectural model for subsequent Ming and Qing imperial tombs. Its layout features a winding sacred way and a square citadel, harmoniously integrating with the natural mountain terrain.",
+          "history": "Construction began in 1381 and was completed in 1405. It was the joint burial site of Zhu Yuanzhang (Emperor Hongwu) and Empress Ma. During the Taiping Rebellion, the wooden structures were destroyed, but the stone architecture remained largely intact. Major restoration took place in the late 19th and late 20th centuries.",
+          "bestVisitTime": "Spring (March–May) and autumn (September–November)",
+          "tips": "Combine with the nearby Plum Blossom Hill (especially February–March); allow 2–3 hours; wear comfortable walking shoes.",
+          "isUnesco": true,
+          "isFamous": true
         }
       ]
     },
