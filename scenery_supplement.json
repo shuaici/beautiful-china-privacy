@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "source": "expanded-by-user",
   "provinces": [
     {
@@ -313,7 +313,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p1",
+      "abbreviation": "京",
+      "capital": "Beijing",
+      "description": "Beijing is the capital of China, a world-famous ancient capital and modern international metropolis with over 3,000 years of history.",
+      "history": "It has served as a capital for more than 860 years. It became the capital of the People's Republic of China in 1949 and is a political, cultural, and international exchange center.",
+      "famousFigures": [
+        "Zhu Di",
+        "Kangxi Emperor",
+        "Qianlong Emperor",
+        "Lao She"
+      ],
+      "cuisine": "Peking Duck, Zhajiangmian, Douzhi, Tanghulu, Lvdagun"
     },
     {
       "provinceEn": "Tianjin",
@@ -507,7 +519,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p2",
+      "abbreviation": "津",
+      "capital": "Tianjin",
+      "description": "Tianjin is a municipality directly under the Central Government, a major port city and economic center in northern China.",
+      "history": "Founded in the Ming Dynasty, it is the only Chinese ancient city with a clear recorded founding date. It was one of China's earliest open coastal cities after 1860.",
+      "famousFigures": [
+        "Yan Fu",
+        "Liang Qichao",
+        "Zhang Boling",
+        "Cao Yu"
+      ],
+      "cuisine": "Goubuli Baozi, Jianbing Guozhi, Shibajie Mahua, Erduoyan Zhagao"
     },
     {
       "provinceEn": "Shanghai",
@@ -735,7 +759,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p9",
+      "abbreviation": "沪",
+      "capital": "Shanghai",
+      "description": "Shanghai is China's economic, financial, trade and shipping center, an international metropolis.",
+      "history": "It developed rapidly after opening as a port in 1843. It is a fusion city of Chinese and Western cultures with important modern historical significance.",
+      "famousFigures": [
+        "Xu Guangqi",
+        "Huang Daopo",
+        "Lu Xun",
+        "Ba Jin",
+        "Qian Xuesen"
+      ],
+      "cuisine": "Xiaolongbao, Shengjianbao, Shanghai Hairy Crab, Scallion Oil Noodles"
     },
     {
       "provinceEn": "Chongqing",
@@ -980,7 +1017,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p22",
+      "abbreviation": "渝",
+      "capital": "Chongqing",
+      "description": "Chongqing is a municipality directly under the Central Government, known as 'Mountain City' and 'Fog City', the economic center of the upper Yangtze River.",
+      "history": "It was the ancient State of Ba. It served as the wartime capital during the War of Resistance against Japanese Aggression. It has unique mountain city scenery.",
+      "famousFigures": [
+        "Ba Manzi",
+        "Qin Liangyu",
+        "Liu Bocheng",
+        "Nie Rongzhen"
+      ],
+      "cuisine": "Chongqing Hot Pot, Xiaomian, Maoxuewang, Wanzhou Grilled Fish"
     },
     {
       "provinceEn": "Hebei",
@@ -1208,7 +1257,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p3",
+      "abbreviation": "冀",
+      "capital": "Shijiazhuang",
+      "description": "Hebei is located in the North China Plain, surrounding Beijing and Tianjin, with rich historical and cultural heritage.",
+      "history": "It was the territory of Yan, Zhao and Zhongshan States in the Spring and Autumn and Warring States Periods. It has many world-famous historical sites.",
+      "famousFigures": [
+        "Liu Bei",
+        "Zhang Fei",
+        "Zhao Yun",
+        "Zu Chongzhi",
+        "Li Daoyuan"
+      ],
+      "cuisine": "Donkey Meat Sandwich, Jinfeng Braised Chicken, Zhengding Eight Bowls"
     },
     {
       "provinceEn": "Shanxi",
@@ -1419,7 +1481,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p4",
+      "abbreviation": "晋",
+      "capital": "Taiyuan",
+      "description": "Shanxi is an important birthplace of Chinese civilization, known as the 'Museum of Ancient Chinese Architecture'.",
+      "history": "It was the powerful Jin State in the Spring and Autumn Period. It has three world cultural heritages: Pingyao Ancient City, Yungang Grottoes and Wutai Mountain.",
+      "famousFigures": [
+        "Duke Wen of Jin",
+        "Guan Yu",
+        "Wu Zetian",
+        "Sima Guang",
+        "Wang Wei"
+      ],
+      "cuisine": "Daoxiao Noodles, Pingyao Beef, Youmian Kaolaolao, Shanxi Aged Vinegar"
     },
     {
       "provinceEn": "Inner Mongolia",
@@ -1596,7 +1671,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p5",
+      "abbreviation": "蒙",
+      "capital": "Hohhot",
+      "description": "Inner Mongolia is the first ethnic autonomous region in China, with vast grasslands and unique nomadic culture.",
+      "history": "It was an important activity area for ancient nomadic peoples. It has a long history of ethnic integration and rich natural grassland resources.",
+      "famousFigures": [
+        "Genghis Khan",
+        "Kublai Khan",
+        "Empress Xiaozhuangwen",
+        "Ulanhu"
+      ],
+      "cuisine": "Shouba Rou, Roasted Whole Lamb, Milk Tea, Mongolian Hot Pot, Milk Skin"
     },
     {
       "provinceEn": "Liaoning",
@@ -1773,7 +1860,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p6",
+      "abbreviation": "辽",
+      "capital": "Shenyang",
+      "description": "Liaoning is an important old industrial base in China and the birthplace of Manchu culture.",
+      "history": "It was the birthplace of the Manchu people. Shenyang Imperial Palace is a world cultural heritage. It has a long industrial and historical heritage.",
+      "famousFigures": [
+        "Nurhaci",
+        "Hong Taiji",
+        "Zhang Xueliang"
+      ],
+      "cuisine": "Guobaorou, Chicken Stewed with Mushrooms, Dalian Seafood, Shenyang Cold Noodles"
     },
     {
       "provinceEn": "Jilin",
@@ -1933,7 +2031,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p7",
+      "abbreviation": "吉",
+      "capital": "Changchun",
+      "description": "Jilin is located in central Northeast China, famous for Changbai Mountain, rime scenery and Korean ethnic culture.",
+      "history": "It is one of the birthplaces of Manchu culture. It has unique natural scenery and multi-cultural integration characteristics.",
+      "famousFigures": [
+        "Puyi",
+        "Yang Jingyu",
+        "Zhao Shangzhi"
+      ],
+      "cuisine": "Yanbian Cold Noodles, Korean Rice Cake, Ginseng Chicken, Korean Barbecue"
     },
     {
       "provinceEn": "Heilongjiang",
@@ -2127,7 +2236,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p8",
+      "abbreviation": "黑",
+      "capital": "Harbin",
+      "description": "Heilongjiang is China's northernmost province, famous for ice-snow culture, forests and wetland resources.",
+      "history": "It has a long frontier history. Harbin is known as the 'Ice City'. It has unique Sino-Russian cultural integration characteristics.",
+      "famousFigures": [
+        "Wanyan Aguda",
+        "Xiao Hong",
+        "Zhao Yiman"
+      ],
+      "cuisine": "Harbin Red Sausage, Demoli Stewed Fish, Dalieba, Madeier Ice Cream"
     },
     {
       "provinceEn": "Jiangsu",
@@ -2440,7 +2560,20 @@
           "isUnesco": true,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p10",
+      "abbreviation": "苏",
+      "capital": "Nanjing",
+      "description": "Jiangsu is located in the Yangtze River Delta, known as 'Land of Fish and Rice' with developed economy and rich culture.",
+      "history": "It was the territory of Wu and Yue States. It has many ancient capitals and water towns, and is an important part of Jiangnan culture.",
+      "famousFigures": [
+        "Liu Bang",
+        "Xiang Yu",
+        "Sun Quan",
+        "Zhu Yuanzhang",
+        "Mei Lanfang"
+      ],
+      "cuisine": "Nanjing Salted Duck, Yangzhou Fried Rice, Wuxi Spareribs, Squirrel Mandarin Fish"
     },
     {
       "provinceEn": "Zhejiang",
@@ -2702,7 +2835,21 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p11",
+      "abbreviation": "浙",
+      "capital": "Hangzhou",
+      "description": "Zhejiang is a coastal province in East China, known as 'Home of Silk' and 'Land of Fish and Rice'.",
+      "history": "It was the State of Yue in ancient times. Hangzhou was the capital of the Southern Song Dynasty. It has West Lake and many ancient water towns.",
+      "famousFigures": [
+        "Goujian",
+        "Wang Xizhi",
+        "Su Shi",
+        "Lu You",
+        "Lu Xun",
+        "Jin Yong"
+      ],
+      "cuisine": "Dongpo Pork, West Lake Vinegar Fish, Longjing Shrimp, Beggar's Chicken, Ningbo Tangyuan"
     },
     {
       "provinceEn": "Anhui",
@@ -2913,7 +3060,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p12",
+      "abbreviation": "皖",
+      "capital": "Hefei",
+      "description": "Anhui is famous for Huangshan Mountain, Huizhou culture and the historical Huizhou merchants.",
+      "history": "It has a long history of cultural development. Huizhou culture is one of the three major regional cultures in China. It has many world-famous ancient villages.",
+      "famousFigures": [
+        "Cao Cao",
+        "Zhu Yuanzhang",
+        "Li Hongzhang",
+        "Hu Shi",
+        "Chen Duxiu"
+      ],
+      "cuisine": "Huizhou Stinky Mandarin Fish, Hairy Tofu, Wuwei Salted Duck, Huainan Beef Soup"
     },
     {
       "provinceEn": "Fujian",
@@ -3141,7 +3301,20 @@
           "isUnesco": true,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p13",
+      "abbreviation": "闽",
+      "capital": "Fuzhou",
+      "description": "Fujian is a coastal province, the starting point of the ancient Maritime Silk Road, with rich Minnan culture.",
+      "history": "Quanzhou was the world's largest port in the Song and Yuan Dynasties. It has a large number of overseas Chinese and unique coastal culture.",
+      "famousFigures": [
+        "Zhu Xi",
+        "Zheng Chenggong",
+        "Lin Zexu",
+        "Bing Xin",
+        "Lin Yutang"
+      ],
+      "cuisine": "Buddha Jumps Over the Wall, Shaxian Snacks, Fuzhou Fish Balls, Oyster Omelet"
     },
     {
       "provinceEn": "Jiangxi",
@@ -3335,7 +3508,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p14",
+      "abbreviation": "赣",
+      "capital": "Nanchang",
+      "description": "Jiangxi is known for its beautiful landscapes, red revolutionary culture and prosperous literary history.",
+      "history": "It has a long cultural history. The Nanchang Uprising broke out here in 1927. It has Lushan Mountain, Jinggangshan and other famous scenic spots.",
+      "famousFigures": [
+        "Tao Yuanming",
+        "Wang Anshi",
+        "Ouyang Xiu",
+        "Wen Tianxiang",
+        "Tang Xianzu"
+      ],
+      "cuisine": "Three-Cup Chicken, Nanchang Rice Noodles, Clay Pot Soup, Poyang Lake Silver Fish"
     },
     {
       "provinceEn": "Shandong",
@@ -3580,7 +3766,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p15",
+      "abbreviation": "鲁",
+      "capital": "Jinan",
+      "description": "Shandong is the birthplace of Confucian culture, known as 'Land of Qi and Lu', with Taishan Mountain as a sacred mountain.",
+      "history": "It is the hometown of Confucius and Mencius. Qufu's Confucius Sites are world cultural heritages. It has a long history of civilization.",
+      "famousFigures": [
+        "Confucius",
+        "Mencius",
+        "Sun Tzu",
+        "Zhuge Liang",
+        "Li Qingzhao"
+      ],
+      "cuisine": "Dezhou Braised Chicken, Jinan Sweet and Sour Carp, Zibo Barbecue, Qingdao Beer"
     },
     {
       "provinceEn": "Henan",
@@ -3791,7 +3990,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p16",
+      "abbreviation": "豫",
+      "capital": "Zhengzhou",
+      "description": "Henan is located in the Central Plains, the core birthplace of Chinese civilization, with many ancient capitals.",
+      "history": "Many ancient dynasties established capitals here. It has four ancient capitals: Luoyang, Kaifeng, Anyang and Zhengzhou. It has a long historical heritage.",
+      "famousFigures": [
+        "Laozi",
+        "Zhuangzi",
+        "Du Fu",
+        "Yue Fei"
+      ],
+      "cuisine": "Hulatang, Daokou Braised Chicken, Luoyang Water Banquet, Kaifeng Soup Dumplings"
     },
     {
       "provinceEn": "Hubei",
@@ -3968,7 +4179,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p17",
+      "abbreviation": "鄂",
+      "capital": "Wuhan",
+      "description": "Hubei is known as the 'Thoroughfare to Nine Provinces', the core area of Chu culture, with the Three Gorges and Wudang Mountain.",
+      "history": "It was the core of the ancient Chu State. It has important historical and cultural relics such as the Yellow Crane Tower and Shennongjia.",
+      "famousFigures": [
+        "Qu Yuan",
+        "Wang Zhaojun",
+        "Zhuge Liang",
+        "Li Shizhen"
+      ],
+      "cuisine": "Hot Dry Noodles, Wuchang Fish, Duck Neck, Lotus Root Soup, Sanxian Doupi"
     },
     {
       "provinceEn": "Hunan",
@@ -4179,7 +4402,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p18",
+      "abbreviation": "湘",
+      "capital": "Changsha",
+      "description": "Hunan is known as 'Xiaoxiang', famous for Zhangjiajie, Hengshan Mountain and unique Xiang culture.",
+      "history": "It was part of the Chu State in ancient times. It has rich red revolutionary culture and magnificent natural landscapes.",
+      "famousFigures": [
+        "Zeng Guofan",
+        "Zuo Zongtang",
+        "Mao Zedong",
+        "Liu Shaoqi",
+        "Peng Dehuai"
+      ],
+      "cuisine": "Stinky Tofu, Chopped Chili Fish Head, Spicy Crayfish, Xiangxi Cured Meat"
     },
     {
       "provinceEn": "Guangdong",
@@ -4390,7 +4626,20 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p19",
+      "abbreviation": "粤",
+      "capital": "Guangzhou",
+      "description": "Guangdong is China's economic powerhouse, the forefront of reform and opening up, with distinctive Lingnan culture.",
+      "history": "Guangzhou has been an important trade port since ancient times. It is a major hometown of overseas Chinese with a unique cultural style.",
+      "famousFigures": [
+        "Sun Yat-sen",
+        "Kang Youwei",
+        "Liang Qichao",
+        "Huang Feihong",
+        "Bruce Lee"
+      ],
+      "cuisine": "White Cut Chicken, Roasted Goose, Char Siu, Cantonese Dim Sum, Chaoshan Beef Hot Pot"
     },
     {
       "provinceEn": "Guangxi",
@@ -4584,7 +4833,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p20",
+      "abbreviation": "桂",
+      "capital": "Nanning",
+      "description": "Guangxi is the only coastal autonomous region in China, famous for 'Guilin's landscape is the finest under heaven'.",
+      "history": "It has a large Zhuang population and unique karst landforms. It is a multi-ethnic integrated region with rich cultural characteristics.",
+      "famousFigures": [
+        "Third Sister Liu",
+        "Li Zongren",
+        "Bai Chongxi"
+      ],
+      "cuisine": "Luosifen, Guilin Rice Noodles, Lipu Taro, Nanning Old Friend Noodles"
     },
     {
       "provinceEn": "Hainan",
@@ -4761,7 +5021,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p21",
+      "abbreviation": "琼",
+      "capital": "Haikou",
+      "description": "Hainan is China's southernmost tropical island province and a free trade port with unique coastal scenery.",
+      "history": "It is China's largest special economic zone. It has rich tropical resources and coastal tourism scenery such as Sanya.",
+      "famousFigures": [
+        "Hai Rui",
+        "Zhang Yunyi",
+        "Feng Baiju"
+      ],
+      "cuisine": "Wenchang Chicken, Jiaji Duck, Hele Crab, Qingbuliang, Coconut Rice"
     },
     {
       "provinceEn": "Sichuan",
@@ -5006,7 +5277,21 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p23",
+      "abbreviation": "川",
+      "capital": "Chengdu",
+      "description": "Sichuan is known as the 'Land of Abundance', famous for giant pandas, Jiuzhaigou and profound Shu culture.",
+      "history": "It was the ancient Shu State. Dujiangyan is a world-famous water conservancy project. It has rich natural and cultural tourism resources.",
+      "famousFigures": [
+        "Li Bing",
+        "Sima Xiangru",
+        "Li Bai",
+        "Su Shi",
+        "Deng Xiaoping",
+        "Zhu De"
+      ],
+      "cuisine": "Mapo Tofu, Kung Pao Chicken, Twice-Cooked Pork, Dan Dan Noodles, Sichuan Hot Pot"
     },
     {
       "provinceEn": "Guizhou",
@@ -5183,7 +5468,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p24",
+      "abbreviation": "黔",
+      "capital": "Guiyang",
+      "description": "Guizhou is known as 'Colorful Guizhou', with rich ethnic cultures and typical karst landforms.",
+      "history": "It is a multi-ethnic inhabited area with 17 native ethnic groups. It has Huangguoshu Waterfall and many ethnic villages.",
+      "famousFigures": [
+        "Wang Yangming",
+        "Zhang Zhidong",
+        "Wang Ruofei"
+      ],
+      "cuisine": "Sour Soup Fish, Huaxi Beef Noodles, Siwawa, Maotai Liquor"
     },
     {
       "provinceEn": "Yunnan",
@@ -5411,7 +5707,17 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p25",
+      "abbreviation": "滇",
+      "capital": "Kunming",
+      "description": "Yunnan is known as 'South of the Colorful Clouds', a kingdom of animals and plants with 25 ethnic minorities.",
+      "history": "It was the ancient Dian Kingdom. It has rich biodiversity and colorful ethnic customs, known as a world-famous tourist resort.",
+      "famousFigures": [
+        "Zheng He",
+        "Nie Er"
+      ],
+      "cuisine": "Cross-Bridge Rice Noodles, Steam Pot Chicken, Xuanwei Ham, Pu'er Tea, Flower Cake"
     },
     {
       "provinceEn": "Tibet",
@@ -5605,7 +5911,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p26",
+      "abbreviation": "藏",
+      "capital": "Lhasa",
+      "description": "Tibet is located on the Qinghai-Tibet Plateau, known as the 'Roof of the World', with unique Tibetan culture and religious heritage.",
+      "history": "Tibet has been an inalienable part of China's territory since ancient times. It has the Potala Palace and world-famous plateau scenery.",
+      "famousFigures": [
+        "Songtsen Gampo",
+        "Princess Wencheng",
+        "Tsangyang Gyatso"
+      ],
+      "cuisine": "Butter Tea, Tsampa, Barley Wine, Yak Meat, Air-Dried Meat"
     },
     {
       "provinceEn": "Shaanxi",
@@ -5799,7 +6116,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p27",
+      "abbreviation": "陕",
+      "capital": "Xi'an",
+      "description": "Shaanxi is known as 'Land of Three Qins'. Xi'an is an ancient capital with 13 dynasties establishing capitals here.",
+      "history": "It is the birthplace of Chinese civilization. It has Terracotta Army, Huashan Mountain and other world-famous historical heritages.",
+      "famousFigures": [
+        "Qin Shi Huang",
+        "Emperor Wu of Han",
+        "Li Bai",
+        "Du Fu"
+      ],
+      "cuisine": "Roujiamo, Yangrou Paomo, Liangpi, Saozi Noodles, Youpo Noodles"
     },
     {
       "provinceEn": "Gansu",
@@ -5993,7 +6322,19 @@
           "isUnesco": true,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p28",
+      "abbreviation": "甘",
+      "capital": "Lanzhou",
+      "description": "Gansu is a key section of the ancient Silk Road, known as the 'Hexi Corridor', a hub of cultural exchange between East and West.",
+      "history": "It has a long history of the Silk Road. It has Mogao Caves, Jiayuguan Pass and other world-famous historical sites.",
+      "famousFigures": [
+        "Li Guang",
+        "Zhang Qian",
+        "Xuanzang",
+        "Zuo Zongtang"
+      ],
+      "cuisine": "Lanzhou Beef Noodles, Hand-Torn Mutton, Niangpi"
     },
     {
       "provinceEn": "Qinghai",
@@ -6170,7 +6511,17 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p29",
+      "abbreviation": "青",
+      "capital": "Xining",
+      "description": "Qinghai is the source of the Yangtze, Yellow and Lancang rivers, known as 'China's Water Tower' and 'Source of Three Rivers'.",
+      "history": "It has the largest inland saltwater lake Qinghai Lake and unique plateau scenery. It is a multi-ethnic inhabited area on the Qinghai-Tibet Plateau.",
+      "famousFigures": [
+        "Tsongkhapa",
+        "10th Panchen Lama"
+      ],
+      "cuisine": "Hand-Torn Mutton, Yogurt, Tsampa, Barley Wine"
     },
     {
       "provinceEn": "Ningxia",
@@ -6313,7 +6664,17 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p30",
+      "abbreviation": "宁",
+      "capital": "Yinchuan",
+      "description": "Ningxia is China's only Hui autonomous region, known as 'Jiangnan Beyond the Great Wall', rich in wolfberry resources.",
+      "history": "It has a long history of ethnic integration. It has Western Xia Imperial Tombs and unique desert and oasis scenery.",
+      "famousFigures": [
+        "Li Yuanhao",
+        "Ma Benzhai"
+      ],
+      "cuisine": "Hand-Torn Mutton, Mutton Saozi Noodles, Eight-Treasure Tea, Goji Berries"
     },
     {
       "provinceEn": "Xinjiang",
@@ -6541,7 +6902,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p31",
+      "abbreviation": "新",
+      "capital": "Urumqi",
+      "description": "Xinjiang is China's largest provincial-level administrative region, known as 'Land of Fruits' and 'Land of Song and Dance'.",
+      "history": "Xinjiang has been an inalienable part of China's territory since ancient times. It is an important section of the ancient Silk Road.",
+      "famousFigures": [
+        "Ban Chao",
+        "Zuo Zongtang",
+        "Lin Zexu"
+      ],
+      "cuisine": "Big Plate Chicken, Pilaf, Lamb Kebabs, Naan, Lagman"
     },
     {
       "provinceEn": "Hong Kong",
@@ -6735,7 +7107,18 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p32",
+      "abbreviation": "港",
+      "capital": "Hong Kong",
+      "description": "Hong Kong is an international financial, trade and shipping center, known as the 'Pearl of the Orient'.",
+      "history": "Hong Kong is a special administrative region of China. It returned to China in 1997. It is an inalienable part of China's territory.",
+      "famousFigures": [
+        "Jin Yong",
+        "Bruce Lee",
+        "Jackie Chan"
+      ],
+      "cuisine": "Hong Kong-style Milk Tea, Egg Tarts, Wonton Noodles, Roasted Meats"
     },
     {
       "provinceEn": "Macau",
@@ -6878,7 +7261,17 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p33",
+      "abbreviation": "澳",
+      "capital": "Macau",
+      "description": "Macau is an international tourism and leisure center, a historic city integrating Chinese and Western cultures.",
+      "history": "Macau is a special administrative region of China. It returned to China in 1999. It is an inalienable part of China's territory.",
+      "famousFigures": [
+        "Xian Xinghai",
+        "Stanley Ho"
+      ],
+      "cuisine": "Portuguese Egg Tarts, Pork Chop Bun, Portuguese Chicken, Almond Cookies"
     },
     {
       "provinceEn": "Taiwan",
@@ -7055,7 +7448,19 @@
           "isUnesco": false,
           "isFamous": true
         }
-      ]
+      ],
+      "id": "p34",
+      "abbreviation": "台",
+      "capital": "Taipei",
+      "description": "Taiwan is China's largest island, known as 'Treasure Island', with rich natural scenery and cultural heritage.",
+      "history": "Taiwan has been an inalienable part of China's territory since ancient times. It has Sun Moon Lake, Ali Mountain and other famous scenic spots.",
+      "famousFigures": [
+        "Zheng Chenggong",
+        "Liu Mingchuan",
+        "Lin Yutang",
+        "Yu Guangzhong"
+      ],
+      "cuisine": "Oyster Omelet, Bubble Tea, Braised Pork Rice, Pineapple Cake, Sun Cake"
     }
   ]
 }
