@@ -22,7 +22,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Timed tickets; closed Mondays; expect crowds at holidays.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_bj_02",
@@ -39,7 +40,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Wear layers; sections are steep—comfortable shoes essential.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_bj_03",
@@ -90,7 +92,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Go early for photos; park is large—plan walking route.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_bj_06",
@@ -553,7 +556,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Sunrise and night lights are iconic; weekends very crowded.",
           "isUnesco": false,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_sh_02",
@@ -2264,8 +2268,8 @@
           "city": "Suzhou",
           "district": "Gusu",
           "mainImageUrl": "sup_js_01.webp",
-          "description": "A group of classical Chinese gardens in Suzhou, famous for exquisite rockeries, peaceful ponds, winding corridors, and delicate landscaping. They represent the highest achievement of private garden art in southern China, integrating architecture, painting, and poetry.",
-          "history": "Suzhou's garden-building tradition began in the 6th century BC and flourished during the Ming and Qing dynasties. The four gardens listed are UNESCO World Heritage Sites. Humble Administrator's Garden was built in the early 16th century; Lingering Garden dates to the Ming Dynasty; Lion Grove Garden is known for its Taihu rocks and was founded in the Yuan Dynasty; Master of the Nets Garden is a compact masterpiece from the Southern Song Dynasty.",
+          "description": "Humble Administrator's Garden is the largest classical garden in Suzhou, with expansive lotus ponds, distant pavilions, and scenery that shifts with each step. Its literati layout embodies the ideal of finding landscape within the city.",
+          "history": "Built in 1509 during the Ming Dynasty by a retired official, its name comes from Pan Yue's poem about a humble administrator tending his garden. Rebuilt over centuries, it became a UNESCO World Heritage Site in 1997 as part of Suzhou's classical gardens.",
           "bestVisitTime": "Year-round",
           "tips": "Reserve timed entry; peak holidays crowded.",
           "isUnesco": true,
@@ -2281,8 +2285,8 @@
           "city": "Suzhou",
           "district": "Gusu",
           "mainImageUrl": "sup_js_02.webp",
-          "description": "A group of classical Chinese gardens in Suzhou, famous for exquisite rockeries, peaceful ponds, winding corridors, and delicate landscaping. They represent the highest achievement of private garden art in southern China, integrating architecture, painting, and poetry.",
-          "history": "Suzhou's garden-building tradition began in the 6th century BC and flourished during the Ming and Qing dynasties. The four gardens listed are UNESCO World Heritage Sites. Humble Administrator's Garden was built in the early 16th century; Lingering Garden dates to the Ming Dynasty; Lion Grove Garden is known for its Taihu rocks and was founded in the Yuan Dynasty; Master of the Nets Garden is a compact masterpiece from the Southern Song Dynasty.",
+          "description": "Lingering Garden is celebrated for spatial sequences where corridors and windows frame changing views of halls, courtyards, and rockeries. Ornate halls and ancient trees create an atmosphere of refined elegance unique among Suzhou gardens.",
+          "history": "Originating in the Ming Dynasty and restored during the Qing, the garden was named Lingering for its ability to hold visitors spellbound. It ranks among China's four great classical gardens and was inscribed as a UNESCO World Heritage Site in 1997.",
           "bestVisitTime": "Year-round",
           "tips": "Combine ticket bundles with other gardens if available.",
           "isUnesco": true,
@@ -2298,8 +2302,8 @@
           "city": "Suzhou",
           "district": "Gusu",
           "mainImageUrl": "sup_js_03.webp",
-          "description": "A group of classical Chinese gardens in Suzhou, famous for exquisite rockeries, peaceful ponds, winding corridors, and delicate landscaping. They represent the highest achievement of private garden art in southern China, integrating architecture, painting, and poetry.",
-          "history": "Suzhou's garden-building tradition began in the 6th century BC and flourished during the Ming and Qing dynasties. The four gardens listed are UNESCO World Heritage Sites. Humble Administrator's Garden was built in the early 16th century; Lingering Garden dates to the Ming Dynasty; Lion Grove Garden is known for its Taihu rocks and was founded in the Yuan Dynasty; Master of the Nets Garden is a compact masterpiece from the Southern Song Dynasty.",
+          "description": "Lion Grove Garden is famed for labyrinthine rockeries formed from Taihu Lake stones, said to resemble lions in various poses. Dense groves and winding paths create a playful, immersive maze-like experience unlike other Suzhou gardens.",
+          "history": "Founded in 1342 during the Yuan Dynasty as a Buddhist temple garden, it later became a private residence. Its rockery remains a landmark of Chinese garden rockwork and earned UNESCO recognition in 1997.",
           "bestVisitTime": "Year-round",
           "tips": "Tight spaces when busy—mind steps.",
           "isUnesco": true,
@@ -2315,8 +2319,8 @@
           "city": "Suzhou",
           "district": "Gusu",
           "mainImageUrl": "sup_js_04.webp",
-          "description": "A group of classical Chinese gardens in Suzhou, famous for exquisite rockeries, peaceful ponds, winding corridors, and delicate landscaping. They represent the highest achievement of private garden art in southern China, integrating architecture, painting, and poetry.",
-          "history": "Suzhou's garden-building tradition began in the 6th century BC and flourished during the Ming and Qing dynasties. The four gardens listed are UNESCO World Heritage Sites. Humble Administrator's Garden was built in the early 16th century; Lingering Garden dates to the Ming Dynasty; Lion Grove Garden is known for its Taihu rocks and was founded in the Yuan Dynasty; Master of the Nets Garden is a compact masterpiece from the Southern Song Dynasty.",
+          "description": "Master of the Nets Garden is the smallest yet most meticulously crafted Suzhou garden, where every courtyard and pavilion feels proportionally perfect. Night garden performances and refined residential layout showcase late Qing private garden intimacy.",
+          "history": "First laid out in the Southern Song Dynasty and rebuilt in the 18th century, the name suggests a retired official who wished to be a fisherman. Despite its small size, it is considered a masterpiece of spatial compression and was listed as UNESCO in 1997.",
           "bestVisitTime": "Year-round",
           "tips": "Evening shows sell out—book ahead.",
           "isUnesco": true,
@@ -2468,8 +2472,8 @@
           "city": "Zhenjiang",
           "district": "Runzhou",
           "mainImageUrl": "sup_js_13.webp",
-          "description": "Three scenic mountains along the Yangtze River in Zhenjiang, each with temples, historic sites, legends, and river views, combining natural scenery and cultural relics.",
-          "history": "Famous since the Six Dynasties. Jinshan Temple is linked to legends of Bai Suzhen; the island-temple setting faces the Yangtze.",
+          "description": "Jinshan Mountain rises from the Yangtze with golden-roofed Jinshan Temple perched on the hillside, offering sweeping river panoramas. Legend ties the site to the White Snake tale, blending Buddhist architecture with riverside drama.",
+          "history": "Jinshan gained renown during the Six Dynasties and the temple was rebuilt after repeated fires. Its island-mountain setting facing the Yangtze made it a strategic and spiritual landmark in Zhenjiang.",
           "bestVisitTime": "Year-round",
           "tips": "Ferry views; combine with nearby Xijin ferry.",
           "isUnesco": false,
@@ -2485,8 +2489,8 @@
           "city": "Zhenjiang",
           "district": "Runzhou",
           "mainImageUrl": "sup_js_14.webp",
-          "description": "Three scenic mountains along the Yangtze River in Zhenjiang, each with temples, historic sites, legends, and river views, combining natural scenery and cultural relics.",
-          "history": "Famous since the Six Dynasties. Jiaoshan is known for ancient stone carvings and forested slopes above the river.",
+          "description": "Jiaoshan Mountain occupies a forested peninsula in the Yangtze, known for Jiaoshan Temple, the famed stele forest, and quiet cliffside paths. It offers a more secluded riverside experience than neighboring Jinshan.",
+          "history": "Buddhist activity on Jiaoshan dates to the Eastern Han Dynasty, and the island became a center of calligraphy and scripture preservation. Its stele forest preserves inscriptions spanning centuries of Chinese literary history.",
           "bestVisitTime": "Year-round",
           "tips": "Boat access only; half-day visit.",
           "isUnesco": false,
@@ -2502,8 +2506,8 @@
           "city": "Zhenjiang",
           "district": "Jingkou",
           "mainImageUrl": "sup_js_15.webp",
-          "description": "Three scenic mountains along the Yangtze River in Zhenjiang, each with temples, historic sites, legends, and river views, combining natural scenery and cultural relics.",
-          "history": "Famous since the Six Dynasties. Beigu Mountain is known for historical stories from the Three Kingdoms period and river panoramas.",
+          "description": "Beigu Mountain overlooks the Yangtze confluence with the Gan River, crowned by Ganlu Temple and the legendary Iron Pagoda. Its hilltop position and river-mountain views have inspired poets and strategists since antiquity.",
+          "history": "Beigu Mountain was a key defensive site during the Three Kingdoms era and remained militarily significant through later dynasties. Legends of Sun Quan chanting poetry here forever linked the mountain to Chinese literary culture.",
           "bestVisitTime": "Year-round",
           "tips": "Short climb; combine with Xijin historic street.",
           "isUnesco": false,
@@ -2595,7 +2599,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Weekends crowded; sunrise bike rides calmer.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_zj_02",
@@ -2871,7 +2876,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Stay overnight on summit for sunrise; book lodges early.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_ah_02",
@@ -3095,7 +3101,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Ferry tickets timed; weekends crowded.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_fj_02",
@@ -3124,8 +3131,8 @@
           "city": "Longyan",
           "district": "Yongding",
           "mainImageUrl": "sup_fj_03.webp",
-          "description": "Large fortified circular and square earthen buildings, unique communal residences of the Hakka people, with thick walls and compact internal layout.",
-          "history": "Built between the 12th and 20th centuries by Hakka communities for defense and communal living. They are a UNESCO World Heritage Site representing Hakka culture.",
+          "description": "Yongding Tulou clusters feature massive round and square earthen fortresses such as Chengqi Lou, where hundreds of Hakka families once lived within one enclosed structure. Thick rammed-earth walls embody communal Hakka architecture in western Fujian.",
+          "history": "Hakka communities in Yongding built tulou from the 12th century onward for defense and clan cohesion. The Yongding clusters were inscribed as UNESCO World Heritage in 2008 as outstanding examples of Hakka communal housing.",
           "bestVisitTime": "Year-round",
           "tips": "Stay inside a tulou for full experience; roads mountainous.",
           "isUnesco": true,
@@ -3141,8 +3148,8 @@
           "city": "Zhangzhou",
           "district": "Nanjing",
           "mainImageUrl": "sup_fj_04.webp",
-          "description": "Large fortified circular and square earthen buildings, unique communal residences of the Hakka people, with thick walls and compact internal layout.",
-          "history": "Built between the 12th and 20th centuries by Hakka communities for defense and communal living. They are a UNESCO World Heritage Site representing Hakka culture.",
+          "description": "Nanjing Tulou includes the iconic Tianluokeng cluster of five tulou on a hillside, blending round and square forms into a scenic composition. These structures showcase Hakka engineering adapted to Fujian's mountainous terrain.",
+          "history": "Nanjing County's tulou developed from the Ming and Qing periods, serving defensive and social functions for Hakka lineages. The Tianluokeng cluster became one of the most photographed tulou landscapes after heritage conservation efforts.",
           "bestVisitTime": "Year-round",
           "tips": "Viewpoints require short hikes; rainy steps slippery.",
           "isUnesco": true,
@@ -3543,7 +3550,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Night hike popular—bring torch; summit cold.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_sd_02",
@@ -3555,8 +3563,8 @@
           "city": "Jining",
           "district": "Qufu",
           "mainImageUrl": "sup_sd_02.webp",
-          "description": "A complex of ancient buildings honoring Confucius, including the Confucius Temple, his family's mansion, and the family cemetery.",
-          "history": "First built in 478 BC after Confucius' death. Expanded over dynasties, it became the largest Confucian complex in the world. A UNESCO World Heritage Site.",
+          "description": "The Temple of Confucius in Qufu is the principal shrine where Confucian rituals were performed for centuries, with halls, archways, and ancient cypress groves across a vast ceremonial compound. It anchors the UNESCO-listed San Kong complex.",
+          "history": "Established in 478 BC one year after Confucius's death, the temple grew through imperial expansions into the world's largest Confucian temple. Imperial sacrifices here reinforced Confucianism as state doctrine for over a millennium.",
           "bestVisitTime": "Year-round",
           "tips": "Combine ticket with Kong Mansion and Kong Forest.",
           "isUnesco": true,
@@ -3572,8 +3580,8 @@
           "city": "Jining",
           "district": "Qufu",
           "mainImageUrl": "sup_sd_03.webp",
-          "description": "A complex of ancient buildings honoring Confucius, including the Confucius Temple, his family's mansion, and the family cemetery.",
-          "history": "First built in 478 BC after Confucius' death. Expanded over dynasties, it became the largest Confucian complex in the world. A UNESCO World Heritage Site.",
+          "description": "The Kong Family Mansion served as the residence of Confucius's direct descendants for over 700 years, with 463 rooms, carved gateways, and formal courtyards reflecting aristocratic Confucian family life. It preserves furnishings and documents of the Kong lineage.",
+          "history": "Granted to Confucius's descendants by early emperors, the mansion expanded through the Ming and Qing dynasties as the Kong clan received noble titles. It remains the world's longest-inhabited aristocratic estate tied to a single family name.",
           "bestVisitTime": "Year-round",
           "tips": "Linked path with temple; crowded tour groups.",
           "isUnesco": true,
@@ -3589,8 +3597,8 @@
           "city": "Jining",
           "district": "Qufu",
           "mainImageUrl": "sup_sd_04.webp",
-          "description": "A complex of ancient buildings honoring Confucius, including the Confucius Temple, his family's mansion, and the family cemetery.",
-          "history": "First built in 478 BC after Confucius' death. Expanded over dynasties, it became the largest Confucian complex in the world. A UNESCO World Heritage Site.",
+          "description": "The Cemetery of Confucius (Kong Forest) is a sacred woodland spanning over two thousand acres, where Confucius and more than 100,000 descendants are buried beneath ancient trees and stone steles. Paths through the forest evoke Confucian lineage across millennia.",
+          "history": "Confucius was buried here in 479 BC, and successive Kong descendants were interred in the expanding grove. Imperial patrons planted trees and erected gates, making Kong Forest the largest family cemetery in the world.",
           "bestVisitTime": "Year-round",
           "tips": "Electric carts optional; respectful behavior.",
           "isUnesco": true,
@@ -3606,8 +3614,8 @@
           "city": "Jinan",
           "district": "Lixia",
           "mainImageUrl": "sup_sd_05.webp",
-          "description": "A group of famous springs and lakes in Jinan, known as the \"City of Springs,\" with clear springs, parks, and traditional pavilions.",
-          "history": "The springs have been famous since the Spring and Autumn Period. Baotu Spring was named by Emperor Qianlong. It is the symbol of Jinan's spring culture.",
+          "description": "Baotu Spring is Jinan's most famous karst spring, where three bubbling jets erupt from a stone-lined pool surrounded by pavilions and gardens. Its crystal-clear water symbolizes Jinan's identity as China's City of Springs.",
+          "history": "Celebrated since the Spring and Autumn Period, Baotu Spring was named by Emperor Qianlong, who ranked it first among Jinan's springs. Literary accounts over centuries record its fluctuating flow and cultural importance to the city.",
           "bestVisitTime": "Year-round",
           "tips": "Dry spells reduce flow—check local reports.",
           "isUnesco": false,
@@ -3623,8 +3631,8 @@
           "city": "Jinan",
           "district": "Lixia",
           "mainImageUrl": "sup_sd_06.webp",
-          "description": "A group of famous springs and lakes in Jinan, known as the \"City of Springs,\" with clear springs, parks, and traditional pavilions.",
-          "history": "The springs have been famous since the Spring and Autumn Period. Baotu Spring was named by Emperor Qianlong. It is the symbol of Jinan's spring culture.",
+          "description": "Daming Lake formed from converging spring waters in central Jinan, offering lotus-lined shores, the historic Tiegong Temple, and panoramic views of the old city skyline. Summer lotus displays and evening boat rides make it Jinan's most beloved urban lake.",
+          "history": "Recorded as early as the Tang Dynasty, Daming Lake is fed by Jinan's underground springs including overflow from Baotu Spring. Poets and governors built pavilions along its banks, embedding the lake in Jinan's civic and cultural memory.",
           "bestVisitTime": "Year-round",
           "tips": "Boat rides; summer lotus bloom.",
           "isUnesco": false,
@@ -4213,7 +4221,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Crowded elevators; book tickets; fog risk.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_hun_02",
@@ -4661,7 +4670,8 @@
           "bestVisitTime": "April to October",
           "tips": "Mist and light change quickly—bring a light jacket. Cruise tickets sell out in peak season.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_gx_02",
@@ -5054,7 +5064,8 @@
           "bestVisitTime": "April to November",
           "tips": "Altitude and weather vary by zone—dress in layers. Shuttle buses link main valleys; plan a full day.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_sc_02",
@@ -5088,7 +5099,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Summit weather changes quickly; cable cars may stop in wind. Respect temple etiquette.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_sc_04",
@@ -5313,7 +5325,8 @@
           "bestVisitTime": "June to October",
           "tips": "Rainy season swells flow; slippery decks—mind footing.",
           "isUnesco": false,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_gz_02",
@@ -5501,7 +5514,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Altitude and cobblestones—comfortable shoes and slow pacing help. Respect quiet zones at night.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_yn_02",
@@ -5739,7 +5753,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Timed tickets and ID checks are strict; no photography in some halls.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_tb_02",
@@ -5944,7 +5959,8 @@
           "bestVisitTime": "Year-round",
           "tips": "Book timed-entry tickets early; peak holidays are very crowded. Allow half a day including museums.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_sx_02",
@@ -6150,7 +6166,8 @@
           "bestVisitTime": "April to October",
           "tips": "Tickets are limited and timed—book well ahead. Photography rules are strict inside caves.",
           "isUnesco": true,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_gs_02",
@@ -6713,7 +6730,8 @@
           "bestVisitTime": "June to September",
           "tips": "Altitude and crowds on holidays—arrive early. Weather changes fast.",
           "isUnesco": false,
-          "isFamous": true
+          "isFamous": true,
+          "isFeatured": true
         },
         {
           "id": "sup_xj_03",
